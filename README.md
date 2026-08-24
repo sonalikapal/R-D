@@ -12,7 +12,6 @@
             text-align: center;
             padding: 50px;
         }
-
         .container {
             background: white;
             max-width: 600px;
