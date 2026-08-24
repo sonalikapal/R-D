@@ -55,7 +55,7 @@
 
     <div class="container">
 
-        <h1>Hi 👋, I'm Sonalika Pal</h1>
+        <h1>Hi , I'm Sonalika Pal</h1>
 
         <h2>MCA | Artificial Intelligence & Machine Learning</h2>
 
@@ -63,11 +63,11 @@
             Welcome to my GitHub profile!
             I am an MCA AIML student interested in
             Artificial Intelligence, Machine Learning,
-            Java, Python and Data Structures & Algorithms.
+            Python and Data Structures & Algorithms.
         </p>
 
         <p>
-            🚀 Learning | 💻 Coding | 🤖 AI & ML
+             Learning |  Coding |  AI & ML
         </p>
 
         <a class="btn" href="https://github.com/">
